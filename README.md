@@ -1,7 +1,6 @@
-# wallpy-sensei
-🌆 A dynamic wallpaper tool - change 'em as the day goes on
----
-Wallpy Sensei is a cool utility that changes your wallpapers based on the time of the day. Add your own wallpacks or choose from the collection. Have fun! :) 
+# 🌆 Wallpy-Sensei
+
+Wallpy-Sensei is a dynamic wallpaper tool for (windows/macOS/linux) to change wallpapers based on the time of the day.
 
 ### To-Do
 - [ ] Update README.md
