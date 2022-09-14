@@ -1,6 +1,6 @@
 # 🌆 Wallpy-Sensei
 
-Wallpy-Sensei is a dynamic wallpaper tool for (windows/macOS/linux) to change wallpapers based on the time of the day.
+Wallpy-Sensei is a dynamic wallpaper tool to change wallpapers based on the time of the day.
 
 ### To-Do
 - [ ] Update README.md
