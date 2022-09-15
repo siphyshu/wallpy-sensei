@@ -1,6 +1,6 @@
 # 🐱‍👤 Wallpy Sensei
 
-A dynamic wallpaper tool that allows you to change wallpapers based on the time of the day. The idea for this little weekend project came after I came across [this](https://www.mattvince.com/product/zelda-wind-waker-wallpaper-4-pack/) wallpaper pack. Since then, I've been using it for changing my desktop wallpapers 24/7. Try it!
+A dynamic wallpaper tool that allows you to change wallpapers based on the time of the day. The idea for this little weekend project came after I came across [this](https://www.mattvince.com/product/zelda-wind-waker-wallpaper-4-pack/) wallpaper pack. You can use it to change your wallpapers 24/7 and even add your own custom wallmaps. Try it!
 
 
 <p float="left">
